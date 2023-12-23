@@ -1,0 +1,6 @@
+Folha de pagamento gerada no dia 16/12/2023 às 18:55:03
+
+Nome: Sr. Jones, Salário: R$2500.0, Bônus: R$1134.63, Total: R$3634.63
+Nome: Sr. Pilkington, Salário: R$2500.0, Bônus: R$67.0, Total: R$2567.0
+Nome: Sr. Frederick, Salário: R$2500.0, Bônus: R$1611.93, Total: R$4111.93
+

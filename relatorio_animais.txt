@@ -1,0 +1,10 @@
+Relatório de animais gerado no dia 16/12/2023 às 18:55:03
+
+Porco - Identificador: 1, Idade: 2, Peso KG: 53.0, Peso @: 3,53, Preço KG: R$15.0, Preço venda: R$795.0
+Porco - Identificador: 3, Idade: 8, Peso KG: 100.0, Peso @: 6,67, Preço KG: R$15.0, Preço venda: R$1500.0
+Gado - Identificador: 4, Idade: 5, Peso KG: 650.0, Peso @: 43,33, Preço KG: R$19.0, Preço venda: R$12350.0
+Gado - Identificador: 5, Idade: 2, Peso KG: 300.0, Peso @: 20, Preço KG: R$19.0, Preço venda: R$5700.0
+Gado - Identificador: 6, Idade: 3, Peso KG: 500.0, Peso @: 33,33, Preço KG: R$19.0, Preço venda: R$9500.0
+Vaca - Identificador: 8, Idade: 4, Peso KG: 720.0, Peso @: 48, Preço KG: R$15.0, Preço venda: R$10800.0
+Vaca - Identificador: 9, Idade: 3, Peso KG: 600.0, Peso @: 40, Preço KG: R$15.0, Preço venda: R$9000.0
+
